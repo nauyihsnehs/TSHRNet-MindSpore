@@ -33,7 +33,6 @@ tqdm
 ## Pretrained models
 
 * Pretrained **MindSpore** models on SSHR are available at [checkpoints_SSHR_ms](https://drive.google.com/drive/folders/1mWO1qw8WfdLYqlGfj4Yxuz5vQz3qkOSp?usp=drive_link).
-* Also in folder './checkpoints_SSHR_ms'
 
 ## Training
 
