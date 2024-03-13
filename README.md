@@ -10,8 +10,6 @@ In ICCV's 23
 
 [Paper](https://arxiv.org/pdf/2309.06302.pdf)
 
-[Pytorch implement](https://github.com/fu123456/TSHRNet)
-
 In this paper, our goal is to remove specular highlight removal for object-level images. In this paper, we propose a three-stage network for specular highlight removal, consisting
 of (i) physics-based specular highlight removal, (ii) specular-free refinement, and (iii) tone correction. In addition, we present a large-scale synthetic dataset of object-level
 images, in which each input image has corresponding albedo, shading, specular residue, diffuse, and tone-corrected diffuse images.
@@ -33,6 +31,7 @@ tqdm
 ## Pretrained models
 
 * Pretrained **MindSpore** models on SSHR are available at [checkpoints_SSHR_ms](https://drive.google.com/drive/folders/1mWO1qw8WfdLYqlGfj4Yxuz5vQz3qkOSp?usp=drive_link).
+* Also available at [release](https://github.com/nauyihsnehs/TSHRNet-MindSpore/releases).
 
 ## Training
 
